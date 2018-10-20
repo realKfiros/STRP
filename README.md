@@ -1,3 +1,4 @@
+*NOTE: THIS PROJECT IS A WORKING EXAMPLE THAT YOU CAN TRY YOURSELF IF YOU WANT, BUT IT'S NOT INTENDED TO DO THAT. YOU CAN USE THIS PROJECT TO BUILD YOUR OWN STRP SYSTEM, BUT REMEMBER THAT IT'S JUST AN EXAMPLE.*
 # STRP - Single Time Registration Page
 
 This project is an example project that demonstrates how to create a registration page for only one time use and for only one email every time using a Firebase Cloud Firestore, Swing and Kotlin. <br/>
